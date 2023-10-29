@@ -1,0 +1,26 @@
+[
+  {
+    "pregunta": "¿Qué tipo de dato usas para declarar si un valor es verdadero y false?",
+    "opciones": [
+      "Boolean",
+      "Opcional"
+    ],
+    "respuesta_correcta": "Boolean"
+  },
+  {
+    "pregunta": "Kotlin le debe su nombre a una isla",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "pregunta": "¿El ejecutable que generas de un app de android tiene el formato?",
+    "opciones": [
+      "apk",
+      "ipa"
+    ],
+    "respuesta_correcta": "apk"
+  }
+]

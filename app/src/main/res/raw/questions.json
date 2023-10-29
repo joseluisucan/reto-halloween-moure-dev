@@ -1,0 +1,154 @@
+[
+  {
+    "pregunta": "¿Cuál es la palabra clave en Kotlin para declarar una variable que no puede ser modificada después de la inicialización?",
+    "opciones": [
+      "var",
+      "val"
+    ],
+    "respuesta_correcta": "val"
+  },
+  {
+    "pregunta": "¿Qué tipo de dato usas para declarar si un valor es verdadero y false?",
+    "opciones": [
+      "Boolean",
+      "Opcional"
+    ],
+    "respuesta_correcta": "Boolean"
+  },
+  {
+    "pregunta": "Kotlin le debe su nombre a una isla",
+    "opciones": [
+      "Verdadero",
+      "Falso"
+    ],
+    "respuesta_correcta": "Verdadero"
+  },
+  {
+    "pregunta": "¿El ejecutable que generas de un app de android tiene el formato?",
+    "opciones": [
+      "apk",
+      "ipa"
+    ],
+    "respuesta_correcta": "apk"
+  },
+  {
+    "pregunta": "¿Qué componente de Android se utiliza para almacenar datos de manera permanente en la aplicación?",
+    "opciones": [
+      "SharedPreferences",
+      "SQLiteDatabase"
+    ],
+    "respuesta_correcta": "SQLiteDatabase"
+  },
+  {
+    "pregunta": "¿Cuál es la función principal en Jetpack Compose para componer la interfaz de usuario?",
+    "opciones": [
+      "onCreate()",
+      "setContent()"
+    ],
+    "respuesta_correcta": "setContent()"
+  },
+  {
+    "pregunta": "¿Cuál es el operador de comparación de igualdad en Kotlin para verificar si dos variables son iguales?",
+    "opciones": [
+      "==",
+      "==="
+    ],
+    "respuesta_correcta": "=="
+  },
+  {
+    "pregunta": "¿Qué es LiveData en Android?",
+    "opciones": [
+      "Una clase de soporte para la creación de vistas en Jetpack Compose.",
+      "Una clase observable que se utiliza en la arquitectura de componentes de Android para notificar a la interfaz de usuario sobre cambios en los datos."
+    ],
+    "respuesta_correcta": "Una clase observable que se utiliza en la arquitectura de componentes de Android para notificar a la interfaz de usuario sobre cambios en los datos."
+  },
+  {
+    "pregunta": "¿Cuál es la forma preferida de implementar la concurrencia en Android?",
+    "opciones": [
+      "AsyncTask",
+      "Corrutinas (Coroutines)"
+    ],
+    "respuesta_correcta": "Corrutinas (Coroutines)"
+  },
+  {
+    "pregunta": "¿Cuál es la función de ViewModel en Android?",
+    "opciones": [
+      "Almacenar y administrar datos relacionados con la interfaz de usuario.",
+      "Definir el diseño de la interfaz de usuario en XML."
+    ],
+    "respuesta_correcta": "Almacenar y administrar datos relacionados con la interfaz de usuario."
+  },
+  {
+    "pregunta": "¿Cuál es el nombre de la nueva arquitectura de navegación en Android Jetpack?",
+    "opciones": [
+      "NavigationView",
+      "Navigation Component"
+    ],
+    "respuesta_correcta": "Navigation Component"
+  },
+  {
+    "pregunta": "¿Qué es el Data Binding en Android?",
+    "opciones": [
+      "Un enfoque para evitar el paso de datos entre componentes.",
+      "Un enlace entre la capa de presentación y la capa de lógica de datos que permite actualizaciones automáticas de la interfaz de usuario."
+    ],
+    "respuesta_correcta": "Un enlace entre la capa de presentación y la capa de lógica de datos que permite actualizaciones automáticas de la interfaz de usuario."
+  },
+  {
+    "pregunta": "¿Cuál es la sintaxis utilizada para definir una función en Kotlin?",
+    "opciones": [
+      "fun",
+      "funct"
+    ],
+    "respuesta_correcta": "fun"
+  },
+  {
+    "pregunta": "¿Cuál es el equivalente de startActivity() en Jetpack Compose?",
+    "opciones": [
+      "ComposeActivity()",
+      "La función navegation entre composables"
+    ],
+    "respuesta_correcta": "La función navegation entre composables"
+  },
+  {
+    "pregunta": "¿Cuál es el principio fundamental de Jetpack Compose?",
+    "opciones": [
+      "Separación de preocupaciones",
+      "Programación declarativa"
+    ],
+    "respuesta_correcta": "Programación declarativa"
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para inflar un diseño en una actividad en Android?",
+    "opciones": [
+      "onCreateView()",
+      "setContentView()"
+    ],
+    "respuesta_correcta": "setContentView()"
+  },
+  {
+    "pregunta": "¿Qué es un estado mutable en Jetpack Compose?",
+    "opciones": [
+      "Un estado que no puede ser modificado.",
+      "Un estado cuyos valores pueden cambiar."
+    ],
+    "respuesta_correcta": "Un estado cuyos valores pueden cambiar."
+  },
+  {
+    "pregunta": "¿Cuál es el enfoque preferido para la administración del ciclo de vida en una actividad en Android?",
+    "opciones": [
+      "onResume() y onPause()",
+      "ViewModel y LiveData"
+    ],
+    "respuesta_correcta": "ViewModel y LiveData"
+  },
+  {
+    "pregunta": "¿Cuál es la utilidad principal de un ViewModel en Android?",
+    "opciones": [
+      "Comunicarse con una base de datos remota.",
+      "Mantener y administrar datos relacionados con la interfaz de usuario durante cambios de configuración y ciclos de vida."
+    ],
+    "respuesta_correcta": "Mantener y administrar datos relacionados con la interfaz de usuario durante cambios de configuración y ciclos de vida."
+  }
+]
